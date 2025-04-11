@@ -6,7 +6,7 @@ App en Python para practicar preguntas tipo test por asignatura y tema.
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu-usuario/cuestionarios-app.git cd cuestionarios-app
+git clone https://github.com/pTomillo/app_test_nebrija cd cuestionarios-app
 
 2. Instala las dependencias:
 
